@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c27a28df-7c7d-4545-8e42-026808215424" name="tju">
+        <fileTransfer rootFolder="/home/cjs/project/HAKE-Action-Torch" accessType="SFTP" host="172.26.149.211" port="60022" sshConfigId="23025183-db2d-4ad5-85e7-7ec0995f7d2e" sshConfig="cjs@172.26.149.211:60022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
